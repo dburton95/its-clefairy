@@ -14,5 +14,6 @@
   "incompatible": [],
   "games": ["gen1", "gen2"],
   "experimental": false,
-  "description": "Give Pikachu a Moon Stone"
+  "description": "Give Pikachu a Moon Stone",
+  "github": "dburton95/its-clefairy"
 }
